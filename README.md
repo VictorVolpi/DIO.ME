@@ -37,3 +37,43 @@ O **Finanças Naturais** é um aplicativo que elimina a burocracia de planilhas 
  5. Relatórios simples e personalizados: Visualizações claras dos gastos, metas e progresso, adaptadas ao estilo do usuário.
 
  ⏺︎ Confira meu projeto na web: [App de Finanças Pessoais com IA](https://github.com/VictorVolpi/DIO.ME/tree/main/Vibe%20Coding)<br>
+
+ ### 📅 Atividade 3 → Primeiros Passos com HTML
+
+⏺︎ Desenvolvimento de uma página web utilizando as principais tags HTML estudadas durante o curso.
+
+#### 🌐 Objetivo do Projeto
+
+Criar uma página simples para demonstrar a utilização de elementos multimídia e recursos de incorporação de conteúdo externo, aplicando conceitos fundamentais de HTML.
+
+## Visão Geral
+
+Desenvolvimento de uma página contendo imagem, áudio e conteúdo externo incorporado através de iframe, proporcionando contato prático com as principais estruturas de uma página web.
+
+## Tecnologias Utilizadas
+
+* HTML5
+* Tags de multimídia
+* Iframes
+* Estruturação de conteúdo
+
+## Funcionalidades Implementadas
+
+1. Exibição de imagem através da tag `<img>`;
+2. Reprodução de áudio utilizando a tag `<audio>`;
+3. Inclusão de legendas com a tag `<track>`;
+4. Incorporação de conteúdo externo utilizando `<iframe>`;
+5. Estruturação visual da página com títulos e quebras de linha.
+
+## Aprendizados
+
+Durante este desafio foi possível compreender:
+
+* Estrutura básica de um documento HTML;
+* Utilização de elementos multimídia;
+* Inserção de imagens e áudios;
+* Incorporação de páginas externas;
+* Organização e semântica do conteúdo web.
+
+⏺︎ Confira meu projeto no GitHub: [Primeiros Passos com HTML](https://github.com/VictorVolpi/DIO.ME/blob/main/HTML/Trabalhando%20com%20M%C3%ADdias%20utilizando%20HTML)<br>
+
