@@ -36,4 +36,4 @@ O **Finanças Naturais** é um aplicativo que elimina a burocracia de planilhas 
  4. Dicas personalizadas do Agente Financeiro: Um assistente virtual que sugere formas de economizar com base nos hábitos do usuário.
  5. Relatórios simples e personalizados: Visualizações claras dos gastos, metas e progresso, adaptadas ao estilo do usuário.
 
- ⏺︎ Confira meu projeto na web: [NotebookLM](https://teste-dio-me.lovable.app/)<br>
+ ⏺︎ Confira meu projeto na web: [App de Finanças Pessoais com IA](https://teste-dio-me.lovable.app/)<br>
