@@ -1,0 +1,48 @@
+# 🧠 Caderno Temático Inteligente: Engenharia Social & NotebookLM
+
+## 🔍 Contexto e Objetivos
+Este repositório foi desenvolvido para o desafio de projeto da **DIO (Digital Innovation One)** com o objetivo de explorar o uso da Inteligência Artificial como uma ferramenta de aprendizagem ativa. 
+
+Utilizando o **NotebookLM** da Google como assistente de estudo e curadoria, realizamos uma análise profunda sobre **Engenharia Social e Segurança da Informação**, investigando como a mente humana pode ser explorada e mapeando estratégias fundamentais de mitigação e troubleshooting através de engenharia de prompts.
+
+---
+
+## 🗂️ Material e Entregas do Projeto
+Todos os arquivos e subprodutos gerados estão organizados estruturadamente no repositório:
+
+*   🎥 **Vídeo Explicativo:** [VIDEO_EXPLICATIVO_SOBRE_O_TEMA.mp4](./VIDEO_EXPLICATIVO_SOBRE_O_TEMA.mp4) — Uma apresentação completa e resumida destacando os pontos mais críticos da nossa pesquisa.
+*   🎙️ **Podcast / Resumo em Áudio:** [RESUMO_EM_AUDIO_(ENGENHARIA_SOCIAL).mp3](./RESUMO_EM_AUDIO_(ENGENHARIA_SOCIAL).mp3) — Sumário executivo focado nos conceitos estruturais de Engenharia Social, ideal para revisão rápida via áudio.
+*   📊 **Slides de Suporte:** [SLIDES_DA_APRESENTAÇÃO.pdf](./SLIDES_DA_APRESENTAÇÃO.pdf) — Guia visual utilizado para consolidar a apresentação e organizar o conhecimento.
+
+---
+
+## 📚 Curadoria de Fontes
+A base de dados alimentada no NotebookLM contou com literatura de referência no setor de segurança cibernética:
+1.  **Livro Base:** *Hacking the Human Mind* — Uma análise aprofundada dos vetores de ataque psicológicos, vieses cognitivos e manipulação de comportamento.
+
+---
+
+## 🔬 Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
+Durante a interação com a IA para estruturar este Caderno Temático, documentamos o comportamento do modelo para extrair o melhor resultado:
+
+*   **Prompt Inicial (Abordagem Direta):** *"Explique os principais pontos de Hacking the Human Mind."*
+    *   *Resultado:* Resumos excessivamente genéricos, listando capítulos sem aprofundamento prático.
+*   **Prompt Refinado (Abordagem Estratégica):** *"Atue como um Especialista em Segurança da Informação e Analista de Red Team. Com base estritamente no livro fornecido, monte um relatório técnico descrevendo as 3 principais técnicas de Engenharia Social citadas, as falhas cognitivas que elas exploram e a respectiva contramedida para cada uma."*
+    *   *Resultado:* Resposta altamente madura, técnica e estruturada em formato de matriz de segurança, usada de insumo para os slides.
+
+---
+
+## 📝 Miniguia de Estudo (Resumo Final)
+
+### 📌 Resumos Estruturados do Assunto
+*   **O Vetor Humano:** A segurança tecnológica (firewalls, criptografia) frequentemente falha não por brechas de software, mas pela exploração de gatilhos psicológicos como urgência, autoridade e escassez.
+*   **Gatilhos de Engenharia Social:** Ataques de *phishing* e *pretexting* dependem exclusivamente de manipular a confiança da vítima para contornar protocolos rígidos de acesso.
+
+### 📖 Glossário de Conceitos Aprendidos
+*   **Engenharia Social:** Prática de manipular pessoas para que executem ações ou divulguem informações confidenciais.
+*   **Pretexting:** Cenário inventado (um pretexto) criado por um atacante para persuadir uma vítima a liberar dados ou acessos confidenciais.
+*   **Vieses Cognitivos:** Atalhos mentais que o cérebro humano utiliza para tomar decisões rápidas, frequentemente explorados para induzir erros de julgamento na segurança da informação.
+
+### 🔄 Prompts Reutilizáveis para Revisão Futura
+```markdown
+"Com base no material fornecido, aja como um auditor de segurança e crie um cenário de simulação de ataque de engenharia social baseado em pretexting para testar a resiliência de uma equipe técnica."
