@@ -1,0 +1,42 @@
+
+<html>
+<head>
+    <title>Exemplo de Tags HTML</title>
+</head>
+
+<body bgcolor="lightblue">
+
+    <h1>Exemplo de Imagem</h1>
+
+    <img src="https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcShDGaeMunNoPoICT5CyVkgUpn5-BWQLsmozSGcVm4fLAEn1_ajlD_V_7qMAW0XM4dD_3ubkNAR-TouImw"
+         alt="Imagem de exemplo"
+         width="300"
+         height="200">
+
+    <br>
+    <br>
+
+    <h1>Exemplo de Áudio</h1>
+
+    <audio controls>
+        <source src="audio.mp3" type="audio/mpeg">
+        <track src="legenda.vtt"
+               kind="captions"
+               srclang="pt"
+               label="Português">
+        Seu navegador não suporta áudio.
+    </audio>
+
+    <br>
+    <br>
+
+    <h1>Exemplo de Iframe</h1>
+
+    <iframe
+    src="https://www.wikipedia.org"
+    width="560"
+    height="315">
+    </iframe>
+
+</body>
+</html>
